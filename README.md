@@ -2,7 +2,7 @@ Rotary-Encoder-Peripheral-System
 Rotary-Encoder Hardware Peripheral and Firmware to Drive it
 CPU-CCB GEN-1 DEVICE FIRMWARE v.1.00 Beta
 ----------------------------------------------------------------------------------------------------------------
-Firmware to drive the MSP430-G2553 controller with Rotary-Encoder, LCD Disply, and LED's.
+Firmware to drive the MSP430-G2553 controller with Rotary-Encoder, LCD Display, and LED's.
 ----------------------------------------------------------------------------------------------------------------
 David Zohrabyan (R&D Department)
 ----------------------------------------------------------------------------------------------------------------
