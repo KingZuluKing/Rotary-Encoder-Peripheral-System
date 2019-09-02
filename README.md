@@ -2,11 +2,11 @@ Rotary-Encoder-Peripheral-System
 Rotary-Encoder Hardware Peripheral and Firmware to Drive it
 CPU-CCB GEN-1 DEVICE FIRMWARE v.1.00 Beta
 ----------------------------------------------------------------------------------------------------------------
-Firmware to drive the MSP430-G2553 controller with Rotary-Encoder, LCD Disply, Cooling system, ST-Relayis, Leds.
+Firmware to drive the MSP430-G2553 controller with Rotary-Encoder, LCD Disply, and LED's.
 ----------------------------------------------------------------------------------------------------------------
 David Zohrabyan (R&D Department)
 ----------------------------------------------------------------------------------------------------------------
-Physalis Labs. Berlin 07.07.2017
+Physalis Laboratories. Berlin 07.07.2017
 ----------------------------------------------------------------------------------------------------------------
 There are many cases where one needs a button, encoder, or a device to use it as a input for several settings.
 The rotary encoder being galvanically isolated from any circuitry is a very sophisticated and long term solution due to many reasons.
