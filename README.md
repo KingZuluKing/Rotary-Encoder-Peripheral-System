@@ -25,8 +25,8 @@ Since couple of months I'm working with Ti microcontrollers. Mostly with the Lau
 There are many cases where one needs a button, encoder, or a device to use it as a input for several settings.
 
 The rotary encoder having no physical connection to a circuitry is a very sophisticated and long term solution due to many reasons.
+![IMG_5072](https://user-images.githubusercontent.com/25608157/134883937-d63c6a05-efc9-4eea-9fc3-b96bac2de554.JPG)
 
-Reasons:![IMG_5075](https://user-images.githubusercontent.com/25608157/134883583-72cd8791-e3b0-4890-8c78-2d93260dc830.JPG)
 
 
 - no wearing of the parts
