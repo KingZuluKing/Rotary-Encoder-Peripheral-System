@@ -26,7 +26,8 @@ There are many cases where one needs a button, encoder, or a device to use it as
 
 The rotary encoder having no physical connection to a circuitry is a very sophisticated and long term solution due to many reasons.
 
-Reasons:
+Reasons:![IMG_5075](https://user-images.githubusercontent.com/25608157/134883583-72cd8791-e3b0-4890-8c78-2d93260dc830.JPG)
+
 
 - no wearing of the parts
 
